@@ -3,8 +3,8 @@
 # Ellison Naz 
 ### Machine Learning Researcher · Full-Stack Engineer · Founding Engineer @ RetainIQ
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellison-james-naz-8a2762388/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ellitellicity@gmail.com)
 [![University](https://img.shields.io/badge/York_University-Lassonde_CS-E31837?style=for-the-badge)](https://lassonde.yorku.ca)
 
 *Building systems at the intersection of AI, healthcare, and infrastructure.*
@@ -134,6 +134,5 @@ Jamaica's topography gives residents near-zero evacuation time when flooding str
 
 *"Build things that matter, ship things that work."*
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ellitellicity-commits&label=Profile%20Views&color=0&icon=0&pretty=false)
 
 </div>
