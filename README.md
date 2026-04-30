@@ -108,7 +108,7 @@ Jamaica's topography gives residents near-zero evacuation time when flooding str
 ## 🤝 Soft Skills & Leadership
 
 **Hackathon Leadership**
-- Co-led RetainIQ from ideation to a working product in a single hackathon cycle, winning the Gold Sponsor Challenge at ThunderHacks 2026 — a result of decisive technical scoping, fast iteration, and clear division of ownership with a collaborator.
+- Co-led RetainIQ from ideation to a working product in a single hackathon cycle, winning the Gold Sponsor Challenge at ThunderHacks 2026, a result of decisive technical scoping, fast iteration, and clear division of ownership with a collaborator.
 
 **Research Collaboration**
 - Embedded within Prof. Ping Luo's lab as the sole undergraduate contributor, operating alongside graduate researchers and adapting to real research workflows: version-controlled experiment tracking, aim-based milestone delivery, and structured documentation.
