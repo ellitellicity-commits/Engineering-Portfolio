@@ -134,6 +134,6 @@ Jamaica's topography gives residents near-zero evacuation time when flooding str
 
 *"Build things that matter, ship things that work."*
 
-![Profile Views](https://komainu8.github.io/github-profile-views-counter/svg?username=YOUR_USERNAME)
+![Profile Views](https://visitcount.itsvg.in/api?id=ellitellicity-commits&label=Profile%20Views&color=0&icon=0&pretty=false)
 
 </div>
