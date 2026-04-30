@@ -122,9 +122,9 @@ Jamaica's topography gives residents near-zero evacuation time when flooding str
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ellitellicity-commits&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellitellicity-commits&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
 </div>
 
