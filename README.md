@@ -17,7 +17,7 @@
 
 I'm a second-year CS student and undergraduate ML researcher at Algoma University (transferring to York University's Lassonde School of Engineering in Fall 2026). I build high-stakes AI systems, from cancer diagnostic pipelines to real-time churn prediction engines, and I thrive at the intersection of research rigor and production engineering.
 
-- 🔬 ML Research Assistant under **Prof. Ping Luo** (NSERC Discovery Grant)
+- 🔬 ML Research Assistant under **Prof. Ping Luo** 
 - 🏆 **Gold Sponsor Challenge Winner** — ThunderHacks 2026
 - 🛰️ NASA data integration · biomedical AI · B2B SaaS platforms
 - 📍 Brampton, ON · Open to research collaborations and co-op opportunities
